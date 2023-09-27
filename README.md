@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdalazim</h1>
-<h3 align="center">iam full-stack developer Based on Riyadh Saudi arabia</h3>
+<h3 align="center">iam Front-End Web-Developer Based on Riyadh Saudi Arabia</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
