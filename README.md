@@ -8,7 +8,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p style="display: flex; justify-content: center; align-items: center;">
+<p style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
 <div>
 <h5 align="left">Backend stack</h5>
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
